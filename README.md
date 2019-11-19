@@ -1,2 +1,2 @@
-# main-account-is-ritcrap
-Go here - https://github.com/ritcrap (main.account)
+# main-account-is-ritsource
+Go here - https://github.com/ritsource (main.account)
